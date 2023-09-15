@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BlueWhale Group.<br>🌱 I’m currently learning Python, Javascript, HTML5, PHP, CSS,...<br>💬 Ask me about something :)<br>⚡ Another...
+🔭 I’m currently working on BlueWhale Group.<br>🌱 I’m currently learning Python, Javascript, HTML5, PHP, CSS,...<br>💬 Ask me about something :)<br>⚡ Another... <br> 🌏 I'm from Vietnam 🇻🇳
 
 
 ## 🌐 Socials:
